@@ -1,0 +1,500 @@
+*********SONG: American Girl**********
+----------SONG INFO----------
+Song: American Girl
+Artist(s) Tom Petty and the Heartbreakers
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/36d69a9c5b7a78b378f349e319ca49075993717b?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: All-American Girl
+Artist(s) Carrie Underwood
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/7d65db8239d88915f10f1fd2af1a202e996fd4e6?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: Your Best American Girl
+Artist(s) Mitski
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/9be3679be4314855260ca9010e4a6a73f74e4d28?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: XXX's And OOO's (An American Girl)
+Artist(s) Trisha Yearwood
+Album: undefined
+Preview Song: null
+----------SONG INFO----------
+Song: American Girl
+Artist(s) Bonnie McKee
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/f9f6aa20300292c31c281d3f5c35538c0f222b5d?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: XXX's And OOO's (An American Girl)
+Artist(s) Trisha Yearwood
+Album: undefined
+Preview Song: null
+----------SONG INFO----------
+Song: All-American Girl
+Artist(s) Carrie Underwood
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/69e5da12bbf1b6fde759588c4bfee8d1cdfff031?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: American Scandal
+Artist(s) Ashley McBryde
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/87160a4e24df1277a7efbc2820abd41ae4f19478?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: Extraordinary Girl / Letterbomb
+Artist(s) Green Day
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/324556269c40b32e9a41a9db6764d361312f5633?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: American Girl
+Artist(s) Ta-ku
+Album: undefined
+Preview Song: null
+----------SONG INFO----------
+Song: American Girl
+Artist(s) Tom Petty and the Heartbreakers
+Album: undefined
+Preview Song: null
+----------SONG INFO----------
+Song: Extraordinary Girl / Letterbomb
+Artist(s) Green Day
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/324556269c40b32e9a41a9db6764d361312f5633?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: Lover Girl
+Artist(s) Ryan Bingham
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/ece5474e85e2e37e467b5585e0c2053cfa6527c9?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: American Girl
+Artist(s) Elle King
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/571123570647b547fd9ffcdfbb634e6cff6602dd?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: Kitty Girl
+Artist(s) RuPaul
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/04a0af3e08c3c51839065b409a86b0dcfd1b1df3?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: China Girl
+Artist(s) John Mellencamp
+Album: undefined
+Preview Song: null
+----------SONG INFO----------
+Song: Damn Girl
+Artist(s) The All-American Rejects
+Album: undefined
+Preview Song: null
+----------SONG INFO----------
+Song: American Girl
+Artist(s) Life of Dillon
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/5ec6f36cd8bc3595d075d9ede5bc585212336ff9?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: American Girl
+Artist(s) Fly By Nightcore
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/56d68c5442d4d61144c65558ea9186321d1422b1?cid=93a05ac052fb4309ad9c91f60f3dda0c
+----------SONG INFO----------
+Song: All American Girl
+Artist(s) Train
+Album: undefined
+Preview Song: https://p.scdn.co/mp3-preview/b38404aea8794e1bfa83f3e94f2fc3ae3e07299f?cid=93a05ac052fb4309ad9c91f60f3dda0c
+*********ARTIST: tame impala**********
+----------CONCERT INFO----------
+Venue Name: Corona Capital
+Venue Location: Zapopan, Mexico
+Date: 05/11/2019
+----------CONCERT INFO----------
+Venue Name: Boston Calling Music Festival
+Venue Location: Boston, United States
+Date: 05/25/2019
+----------CONCERT INFO----------
+Venue Name: Primavera Sound
+Venue Location: Barcelona, Spain
+Date: 05/31/2019
+----------CONCERT INFO----------
+Venue Name: We Love Green Festival
+Venue Location: Paris, France
+Date: 06/02/2019
+----------CONCERT INFO----------
+Venue Name: Gården
+Venue Location: Lorensberg, Sweden
+Date: 06/05/2019
+----------CONCERT INFO----------
+Venue Name: The O2
+Venue Location: London, United Kingdom
+Date: 06/08/2019
+----------CONCERT INFO----------
+Venue Name: Empress Ballroom, Winter Gardens
+Venue Location: Blackpool, United Kingdom
+Date: 06/24/2019
+----------CONCERT INFO----------
+Venue Name: 3Arena
+Venue Location: Dublin, Ireland
+Date: 06/26/2019
+----------CONCERT INFO----------
+Venue Name: Budweiser Stage
+Venue Location: Toronto, Canada
+Date: 07/26/2019
+----------CONCERT INFO----------
+Venue Name: Mo Pop Festival
+Venue Location: Detroit, United States
+Date: 07/27/2019
+----------CONCERT INFO----------
+Venue Name: Surly Brewing Festival Field
+Venue Location: Minneapolis, United States
+Date: 07/30/2019
+----------CONCERT INFO----------
+Venue Name: Surly Brewing Festival Field
+Venue Location: Minneapolis, United States
+Date: 07/31/2019
+----------CONCERT INFO----------
+Venue Name: Lollapalooza
+Venue Location: Chicago, United States
+Date: 08/02/2019
+----------CONCERT INFO----------
+Venue Name: Parkbühne Wuhlheide
+Venue Location: Berlin, Germany
+Date: 08/13/2019
+----------CONCERT INFO----------
+Venue Name: Madison Square Garden
+Venue Location: New York, United States
+Date: 08/21/2019
+----------CONCERT INFO----------
+Venue Name: Madison Square Garden
+Venue Location: New York, United States
+Date: 08/22/2019
+----------CONCERT INFO----------
+Venue Name: The Mann Center for the Performing Arts
+Venue Location: Philadelphia, United States
+Date: 08/23/2019
+----------CONCERT INFO----------
+Venue Name: The Anthem
+Venue Location: Washington, United States
+Date: 08/24/2019
+----------CONCERT INFO----------
+Venue Name: The Anthem
+Venue Location: Washington, United States
+Date: 08/25/2019
+----------MOVIE INFO----------
+Movie Title: Pulp Fiction
+Year Released: 1994
+IMDB Rating: 8.9
+Country Produced: USA
+Language: English, Spanish, French
+Plot: The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Actors: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+Rotten Tomatoes Rating: 92%
+*********ARTIST: Backstreet Boys**********
+----------CONCERT INFO----------
+Venue Name: Forum 
+Venue Location: Milan, Italy
+Date: 05/15/2019
+----------CONCERT INFO----------
+Venue Name: Palau San Jordi
+Venue Location: Barcelona, Spain
+Date: 05/17/2019
+----------CONCERT INFO----------
+Venue Name: Accorhotels
+Venue Location: Paris, France
+Date: 05/19/2019
+----------CONCERT INFO----------
+Venue Name: TUI Arena
+Venue Location: Hannover, Germany
+Date: 05/21/2019
+----------CONCERT INFO----------
+Venue Name: Sportpalais
+Venue Location: Antwerp, Belgium
+Date: 05/22/2019
+----------CONCERT INFO----------
+Venue Name: Ziggo Dome
+Venue Location: Amsterdam, Netherlands
+Date: 05/23/2019
+----------CONCERT INFO----------
+Venue Name: SAP Arena
+Venue Location: Mannheim, Germany
+Date: 05/25/2019
+----------CONCERT INFO----------
+Venue Name: Olympiahalle
+Venue Location: Munich, Germany
+Date: 05/27/2019
+----------CONCERT INFO----------
+Venue Name: Stadhalle
+Venue Location: Vienna, Austria
+Date: 05/28/2019
+----------CONCERT INFO----------
+Venue Name: Mercedes-Benz Arena
+Venue Location: Berlin, Germany
+Date: 05/29/2019
+----------CONCERT INFO----------
+Venue Name: Scandinavium
+Venue Location: Gothenburg, Sweden
+Date: 05/31/2019
+----------CONCERT INFO----------
+Venue Name: Spektrum
+Venue Location: Oslo, Norway
+Date: 06/01/2019
+----------CONCERT INFO----------
+Venue Name: Ericsson Globe
+Venue Location: Stockholm, Sweden
+Date: 06/02/2019
+----------CONCERT INFO----------
+Venue Name: Hartwell Arena
+Venue Location: Helsinki, Finland
+Date: 06/05/2019
+----------CONCERT INFO----------
+Venue Name: Royal Arena
+Venue Location: Copenhagen, Denmark
+Date: 06/08/2019
+----------CONCERT INFO----------
+Venue Name: Manchester Arena
+Venue Location: Manchester, United Kingdom
+Date: 06/10/2019
+----------CONCERT INFO----------
+Venue Name: 3Arena
+Venue Location: Dublin, Ireland
+Date: 06/11/2019
+----------CONCERT INFO----------
+Venue Name: Hydro Arena
+Venue Location: Glasgow, United Kingdom
+Date: 06/14/2019
+----------CONCERT INFO----------
+Venue Name: Barclaycard Arena
+Venue Location: Birmingham, United Kingdom
+Date: 06/15/2019
+----------CONCERT INFO----------
+Venue Name: O2 Arena
+Venue Location: London, United Kingdom
+Date: 06/17/2019
+----------CONCERT INFO----------
+Venue Name: O2 Arena
+Venue Location: London, United Kingdom
+Date: 06/18/2019
+----------CONCERT INFO----------
+Venue Name: Lanxness Arena
+Venue Location: Cologne, Germany
+Date: 06/20/2019
+----------CONCERT INFO----------
+Venue Name: Hallenstadion
+Venue Location: Zurich, Switzerland
+Date: 06/21/2019
+----------CONCERT INFO----------
+Venue Name: O2 Arena
+Venue Location: Prague, Czech Republic
+Date: 06/22/2019
+----------CONCERT INFO----------
+Venue Name: Torwar Arena
+Venue Location: Warsaw, Poland
+Date: 06/24/2019
+----------CONCERT INFO----------
+Venue Name: Sports Arena
+Venue Location: Budapest, Hungary
+Date: 06/25/2019
+----------CONCERT INFO----------
+Venue Name: Capital One Arena
+Venue Location: Washington, United States
+Date: 07/12/2019
+----------CONCERT INFO----------
+Venue Name: Ottawa Bluesfest
+Venue Location: Ottawa, Canada
+Date: 07/14/2019
+----------CONCERT INFO----------
+Venue Name: Bell Centre
+Venue Location: Montreal, Canada
+Date: 07/15/2019
+----------CONCERT INFO----------
+Venue Name: ScotiaBank Arena
+Venue Location: Toronto, Canada
+Date: 07/17/2019
+----------CONCERT INFO----------
+Venue Name: Xcel Energy Center
+Venue Location: Minneapolis, United States
+Date: 07/20/2019
+----------CONCERT INFO----------
+Venue Name: Bell MTS Place
+Venue Location: Winnipeg, Canada
+Date: 07/22/2019
+----------CONCERT INFO----------
+Venue Name: ScotiaBank Saddledome
+Venue Location: Calgary, Canada
+Date: 07/24/2019
+----------CONCERT INFO----------
+Venue Name: Rogers Place
+Venue Location: Edmonton, Canada
+Date: 07/25/2019
+----------CONCERT INFO----------
+Venue Name: Pepsi Live at Rogers Arena
+Venue Location: Vancouver, Canada
+Date: 07/27/2019
+----------CONCERT INFO----------
+Venue Name: Angel of the Winds Arena
+Venue Location: Seattle, United States
+Date: 07/29/2019
+----------CONCERT INFO----------
+Venue Name: Moda Center
+Venue Location: Portland, United States
+Date: 07/30/2019
+----------CONCERT INFO----------
+Venue Name: Golden 1 Center
+Venue Location: Sacramento, United States
+Date: 08/01/2019
+----------CONCERT INFO----------
+Venue Name: Staples Center
+Venue Location: Los Angeles, United States
+Date: 08/03/2019
+----------CONCERT INFO----------
+Venue Name: SAP Center
+Venue Location: San Jose, United States
+Date: 08/04/2019
+----------CONCERT INFO----------
+Venue Name: Honda Center
+Venue Location: Anaheim, United States
+Date: 08/05/2019
+----------CONCERT INFO----------
+Venue Name: Vivint Smart Home Arena
+Venue Location: Salt Lake City, United States
+Date: 08/07/2019
+----------CONCERT INFO----------
+Venue Name: Pepsi Center Arena
+Venue Location: Denver, United States
+Date: 08/08/2019
+----------CONCERT INFO----------
+Venue Name: United Center
+Venue Location: Chicago, United States
+Date: 08/10/2019
+----------CONCERT INFO----------
+Venue Name: Little Caesars Arena
+Venue Location: Detroit, United States
+Date: 08/12/2019
+----------CONCERT INFO----------
+Venue Name: TD Garden
+Venue Location: Boston, United States
+Date: 08/14/2019
+----------CONCERT INFO----------
+Venue Name: Barclays Center
+Venue Location: New York, United States
+Date: 08/15/2019
+----------CONCERT INFO----------
+Venue Name: Wells Fargo Center
+Venue Location: Philadelphia, United States
+Date: 08/17/2019
+----------CONCERT INFO----------
+Venue Name: Hersheypark Stadium
+Venue Location: Hershey, United States
+Date: 08/18/2019
+----------CONCERT INFO----------
+Venue Name: PNC Arena
+Venue Location: Raleigh, United States
+Date: 08/20/2019
+----------CONCERT INFO----------
+Venue Name: State Farm Arena
+Venue Location: Atlanta, United States
+Date: 08/21/2019
+----------CONCERT INFO----------
+Venue Name: BB&T Center
+Venue Location: Fort Lauderdale, United States
+Date: 08/23/2019
+----------CONCERT INFO----------
+Venue Name: Amway Center
+Venue Location: Orlando, United States
+Date: 08/24/2019
+----------CONCERT INFO----------
+Venue Name: Bridgestone Arena
+Venue Location: Nashville, United States
+Date: 08/26/2019
+----------CONCERT INFO----------
+Venue Name: FedEx Forum
+Venue Location: Memphis, United States
+Date: 08/27/2019
+----------CONCERT INFO----------
+Venue Name: BOK Center
+Venue Location: Tulsa, United States
+Date: 08/28/2019
+----------CONCERT INFO----------
+Venue Name: Smoothie King Center
+Venue Location: New Orleans, United States
+Date: 08/30/2019
+----------CONCERT INFO----------
+Venue Name: Toyota Center
+Venue Location: Houston, United States
+Date: 08/31/2019
+----------CONCERT INFO----------
+Venue Name: American Airlines Arena
+Venue Location: Dallas, United States
+Date: 09/01/2019
+----------CONCERT INFO----------
+Venue Name: Cajundome
+Venue Location: Lafayette, United States
+Date: 09/03/2019
+----------CONCERT INFO----------
+Venue Name: The Legacy Arena at the BJCC
+Venue Location: Birmingham, United States
+Date: 09/04/2019
+----------CONCERT INFO----------
+Venue Name: Enterprise Center
+Venue Location: St. Louis, United States
+Date: 09/06/2019
+----------CONCERT INFO----------
+Venue Name: Sprint Center
+Venue Location: Kansas City, United States
+Date: 09/07/2019
+----------CONCERT INFO----------
+Venue Name: CHI Health Center
+Venue Location: Omaha, United States
+Date: 09/08/2019
+----------CONCERT INFO----------
+Venue Name: Bankers Life Fieldhouse
+Venue Location: Indianapolis, United States
+Date: 09/10/2019
+----------CONCERT INFO----------
+Venue Name: Fiserv Forum
+Venue Location: Milwaukee, United States
+Date: 09/11/2019
+----------CONCERT INFO----------
+Venue Name: KFC Yum! Center
+Venue Location: Louisville, United States
+Date: 09/13/2019
+----------CONCERT INFO----------
+Venue Name: PPG Paints Arena
+Venue Location: Pittsburgh, United States
+Date: 09/14/2019
+----------CONCERT INFO----------
+Venue Name: Prudential Center
+Venue Location: Newark, United States
+Date: 09/15/2019
+----------CONCERT INFO----------
+Venue Name: DNA World Tour
+Venue Location: Tokyo, Japan
+Date: 10/12/2019
+----------CONCERT INFO----------
+Venue Name: DNA World Tour
+Venue Location: Tokyo, Japan
+Date: 10/13/2019
+----------CONCERT INFO----------
+Venue Name: DNA World Tour
+Venue Location: Osaka, Japan
+Date: 10/16/2019
+----------CONCERT INFO----------
+Venue Name: DNA World Tour
+Venue Location: Macau, China
+Date: 10/19/2019
+----------CONCERT INFO----------
+Venue Name: DNA World Tour
+Venue Location: Taipei, Taiwan
+Date: 10/22/2019
+----------CONCERT INFO----------
+Venue Name: DNA World Tour
+Venue Location: Bangkok, Thailand
+Date: 10/24/2019
+----------CONCERT INFO----------
+Venue Name: DNA World Tour
+Venue Location: Jakarta, Indonesia
+Date: 10/26/2019
+----------CONCERT INFO----------
+Venue Name: DNA World Tour
+Venue Location: Manila, Philippines
+Date: 10/28/2019
+----------CONCERT INFO----------
+Venue Name: DNA World Tour
+Venue Location: Singapore, Singapore
+Date: 10/30/2019
