@@ -7,6 +7,7 @@ var fs = require('fs');
 var command = process.argv[2];
 var userSearch = process.argv[3];
 var axios = require("axios");
+var moment = require('moment');
 
 if (command === "spotify-this-song") {
     searchSong(userSearch);
@@ -48,7 +49,6 @@ function searchSong(userSearch) {
 }
 
 // OMDB
-
 function searchMovie(userSearch) {
 
     if (userSearch === undefined) {
@@ -56,30 +56,36 @@ function searchMovie(userSearch) {
     }
 
     axios.get("http://www.omdbapi.com/?t=" + userSearch + "&y=&plot=short&apikey=trilogy").then(
-        function(response) {
-            console.log ("Movie Title: " + response.data.Title)
-            console.log ("Year Released: " + response.data.Year)
-            console.log ("IMDB Rating: " + response.data.imdbRating)
-            console.log ("Country Produced: " + response.data.Country)
-            console.log ("Language: " + response.data.Language)
-            console.log ("Plot: " + response.data.Plot)
-            console.log ("Actors: " + response.data.Actors)
-            console.log ("Actors: " + response.data.Actors)
+        function (response) {
+            console.log("Movie Title: " + response.data.Title)
+            console.log("Year Released: " + response.data.Year)
+            console.log("IMDB Rating: " + response.data.imdbRating)
+            console.log("Country Produced: " + response.data.Country)
+            console.log("Language: " + response.data.Language)
+            console.log("Plot: " + response.data.Plot)
+            console.log("Actors: " + response.data.Actors)
             for (var i = 0; i < response.data.Ratings.length; i++)
                 if (response.data.Ratings[i].Source === "Rotten Tomatoes") {
-                    console.log ("Rotten Tomatoes Rating: " + response.data.Ratings[i].Value);
+                    console.log("Rotten Tomatoes Rating: " + response.data.Ratings[i].Value);
                 }
         }
     )
 }
 
-// var queryURL = "https://rest.bandsintown.com/artists/" + userSearch + "/events?app_id=codingbootcamp"
+function searchBand(userSearch) {
 
-// * Title of the movie.
-// * Year the movie came out.
-// * IMDB Rating of the movie.
-// * Rotten Tomatoes Rating of the movie.
-// * Country where the movie was produced.
-// * Language of the movie.
-// * Plot of the movie.
-// * Actors in the movie
+    axios.get("https://rest.bandsintown.com/artists/" + userSearch + "/events?app_id=codingbootcamp").then(
+        function (response) {
+            for (var i = 0; i < response.data.length; i++) {
+                var date = moment(response.data[i].datetime);
+                var formattedDate = date.format("MM/DD/YYYY")
+                console.log(i + 1)
+                console.log("Venue Name: " + response.data[i].venue.name)
+                console.log("Venue Location: " + response.data[i].venue.city + ", " + response.data[i].venue.country)
+                console.log("Date: " + formattedDate);
+            }
+        }
+    )
+
+
+}
