@@ -22,3 +22,10 @@ Using the command `movie-this` followed by a movie, this application will return
 Leaving out the movie title will automatically show results for Mr. Nobody.
 
 And finally, using the command `do-what-it-says`, this application will return results from the random.txt file. 
+
+### Languages and Tools Used
+* Javascript
+* APIs
+* Node.js
+* Axios
+* Moment.js
